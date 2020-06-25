@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -13,28 +10,45 @@
 <v t="leo.20180902120538.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180902120538.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180902120523.1" a="E"><vh>編輯 reveal</vh>
-<v t="leo.20180902120523.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180902120523.3" a="E"><vh>@clean index.html</vh>
-<v t="leo.20180902120523.4" a="E"><vh>html</vh>
+<v t="leo.20180902120523.1"><vh>編輯 reveal</vh>
+<v t="leo.20180902120523.2"><vh>@path ./../reveal</vh>
+<v t="leo.20180902120523.3"><vh>@clean index.html</vh>
+<v t="leo.20180902120523.4"><vh>html</vh>
 <v t="leo.20180902120523.5"><vh>head</vh></v>
-<v t="leo.20180902120523.6" a="E"><vh>body</vh>
-<v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
-<v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20180902120523.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20180902120523.6"><vh>body</vh>
+<v t="leo.20180902120523.7"><vh>reveal div</vh>
+<v t="leo.20180902120523.8"><vh>slides div</vh>
+<v t="leo.20200625110310.1"><vh>w1-w5</vh>
+<v t="leo.20200625110310.2"><vh>w1-w5</vh>
+<v t="leo.20200625110310.3"><vh>w1-w5</vh></v>
 </v>
-<v t="leo.20180902120523.11" a="E"><vh>快捷鍵</vh>
+</v>
+<v t="leo.20200625111946.1"><vh>w6-w9</vh>
+<v t="leo.20200625111946.2"><vh>w6-w9</vh>
+<v t="leo.20200625111946.3"><vh>w6-w9</vh></v>
+</v>
+</v>
+<v t="leo.20200625111949.1"><vh>w10-w14</vh>
+<v t="leo.20200625111949.2"><vh>w10-w14</vh>
+<v t="leo.20200625111949.3"><vh>w10-w14</vh></v>
+</v>
+</v>
+<v t="leo.20200625112014.1"><vh>w15-w18</vh>
+<v t="leo.20200625112014.2"><vh>w15-w18</vh>
+<v t="leo.20200625112014.3"><vh>w15-w18</vh></v>
+</v>
+</v>
+<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180902120523.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180902120523.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -48,18 +62,6 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
-
-### KMOLab
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
 <t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -241,15 +243,6 @@ CMSimfly 網際內容管理
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180902120523.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx="leo.20180902120538.1"></t>
 <t tx="leo.20180902120538.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -326,5 +319,117 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200625110310.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20200625110310.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200625110310.3">[Week1-Week5](https://40623114.github.io/cd2020/content/W1-W5)
+
+* week1 建立個人倉儲及網站編譯
+
+* week2 升級python3.8.2
+
+* week3 [Assignment1PDF](https://40623114.github.io/cd2020/downloads/%E4%BD%9C%E6%A5%AD%E4%B8%80.pdf) 1.隨機分組 2.抽點名
+
+* week4 [第三組直播會議-1](https://www.youtube.com/watch?time_continue=3&amp;v=ZMKNMympFY0&amp;feature=emb_logo)
+
+ 
+
+
+
+</t>
+<t tx="leo.20200625111946.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20200625111946.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200625111946.3">    [Week6-Week9](https://40623114.github.io/cd2020/content/W6-W9.html)
+
+* week6 [第三組直播會議-2](https://www.youtube.com/watch?v=IX0Xw1ROTgg&amp;feature=emb_logo)
+具體描述機械設計團隊為了完成作業1的四輪機器人需要做些什麼?
+
+* week7 [Assignment2PDF](https://40623114.github.io/cd2020/downloads/4-8_(p80_p95).pdf )
+
+* week8 1.V-rep更新版本 2.解決python 3.8.2版本leo閃退問題
+
+* wee9 期 中考線上課程
+
+ 
+
+
+
+</t>
+<t tx="leo.20200625111949.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20200625111949.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200625111949.3">[Week10-Week14](https://40623114.github.io/cd2020/content/W10-W14)
+
+* week10 [第三組直播會議-3](https://www.youtube.com/watch?v=jyIoV8YR-b4&amp;feature=emb_logo)
+使用CoppeliaSim、Webots、Onshape提出一個機電一體化項目。
+
+* week11 1.gm用戶登入設置
+2.[第三組直播會議-4](https://www.youtube.com/watch?v=Dzh81Op7ka0&amp;feature=emb_logo)
+
+* week12 1.Ubuntu設定及API連線
+2.[第三組直播會議-5](https://www.youtube.com/watch?time_continue=657&amp;v=4fg3xMuP6eo&amp;feature=emb_logo) 3.[Assignment3PDF](https://40623114.github.io/cd2020/downloads/TOPIC3-PDF.pdf)
+
+* week13 IPv4 遠端控制設定
+
+* week14 1.[抽點網站](http://mde.tw/cdbw14-1) 2.FileZilla
+
+
+
+
+
+
+</t>
+<t tx="leo.20200625112014.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20200625112014.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200625112014.3">[Week15-Week18](https://40623114.github.io/cd2020/content/W15-W18.html)
+
+* week15 [W15抽點網站](http://mde.tw/cdbw15-3)
+
+* week16 IPv6對外連線個人倉儲
+
+* week18 1.Final Project 2.個人reveal 3.期末報告影片
+
+
+
+
+</t>
 </tnodes>
 </leo_file>
