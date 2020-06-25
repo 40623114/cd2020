@@ -425,7 +425,7 @@ vertical: body pane on the botton</t>
 
 * week16 IPv6對外連線個人倉儲
 
-* week18 1.[Final Project](https://40623114.github.io/cd2020/downloads/Final%20Project.pdf) 2.個人reveal 3.期末報告影片3-5分鐘
+* week18 1.[Final Project](https://40623114.github.io/cd2020/downloads/Final%20Project.pdf) 2.個人reveal 3.[期末報告影片3-5分鐘](https://www.youtube.com/watch?v=UfchIKHNu6A&amp;feature=youtu.be)
 
 
 
