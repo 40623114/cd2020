@@ -363,11 +363,11 @@ vertical: body pane on the botton</t>
 * week6 [第三組直播會議-2](https://www.youtube.com/watch?v=IX0Xw1ROTgg&amp;feature=emb_logo)
 具體描述機械設計團隊為了完成作業1的四輪機器人需要做些什麼?
 
-* week7 [Assignment2PDF](https://40623114.github.io/cd2020/downloads/4-8_(p80_p95).pdf )
+* week7 [Assignment2PDF](https://40623114.github.io/cd2020/downloads/4-8_(p80_p95).pdf)
 
 * week8 1.V-rep更新版本 2.解決python 3.8.2版本leo閃退問題
 
-* wee9 期 中考線上課程
+* week9 期 中考線上課程
 
  
 
